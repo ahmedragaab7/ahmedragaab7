@@ -84,6 +84,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedragaab7&theme=default" alt="ahmedragaab" />
 </div>
 
+## ✍️ Today's Quote
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
+</div>
+
+
+<div align="center">
+ <b style = {font-weight: 600}>Visitors Count</b>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ahmedragaab7}/count.svg" /></p> 
+<br>
+</div>
+
 
 ## **Connect with Me**
 <div align="center">
