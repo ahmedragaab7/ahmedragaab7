@@ -63,14 +63,6 @@
 - Gained practical experience in building dynamic and responsive web applications.
 
 
-## **Projects**
-- **React Quiz**: [Live Demo](https://ahmedragaab7.github.io/react_quiz/) | [GitHub Repo](https://github.com/ahmedragaab7/react_quiz)
-- **Pig Game**: [Live Demo](#) | [GitHub Repo](#)
-- **E-Shop**: [Live Demo](#) | [GitHub Repo](#)
-- **Mapty**: [Live Demo](#) | [GitHub Repo](#)
-- **Bankist**: [Live Demo](#) | [GitHub Repo](#)
-- **Bankist Website**: [Live Demo](#) | [GitHub Repo](#)
-
 ---
 
 ## 🏆 Github Stats
