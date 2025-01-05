@@ -11,13 +11,40 @@
 
 ## **Languages & Tools**
 <div>
+  <!-- Front-End Basics -->
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
+
+  <!-- Version Control -->
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+
+  <!-- Package Managers -->
+  <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
+
+  <!-- Build Tools -->
+  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+
+  <!-- Testing Tools -->
+  <img src="https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white" />
+
+  <!-- Authentication -->
+  <img src="https://img.shields.io/badge/two%20factor%20auth-%23000000.svg?style=for-the-badge&logo=authy&logoColor=white" />
+  <img src="https://img.shields.io/badge/oauth-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" />
+
+  <!-- APIs -->
+  <img src="https://img.shields.io/badge/restful%20api-%23000000.svg?style=for-the-badge&logo=api&logoColor=white" />
+
+  <!-- Other Tools -->
+  <img src="https://img.shields.io/badge/vs%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
 ---
@@ -37,7 +64,7 @@
 
 
 ## **Projects**
-- **Guess My Number Game**: [Live Demo](#) | [GitHub Repo](#)
+- **React Quiz**: [Live Demo](https://ahmedragaab7.github.io/react_quiz/) | [GitHub Repo](https://github.com/ahmedragaab7/react_quiz)
 - **Pig Game**: [Live Demo](#) | [GitHub Repo](#)
 - **E-Shop**: [Live Demo](#) | [GitHub Repo](#)
 - **Mapty**: [Live Demo](#) | [GitHub Repo](#)
@@ -45,6 +72,26 @@
 - **Bankist Website**: [Live Demo](#) | [GitHub Repo](#)
 
 ---
+
+## 🏆 Github Stats
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedragaab7&show_icons=true&count_private=true&&theme=default)
+
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ahmedragaab7&theme=default&no-frame=false&no-bg=false&margin-w=4)
+
+## Most Used Languages
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <!-- GitHub Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedragaab7&show_icons=true&locale=en&layout=compact&theme=default" alt="ahmedragaab" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedragaab7&theme=default" alt="ahmedragaab" />
+</div>
+
 
 ## **Connect with Me**
 <div align="center">
