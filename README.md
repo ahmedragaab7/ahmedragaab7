@@ -22,6 +22,20 @@
 
 ---
 
+## **Education**
+
+### **Bachelor's Degree in Computer Science**
+- **Institution**: Mansoura University  
+- **Years**: 2020 – 2024  
+- **Specialization**: Computer Science
+- 
+### **Frontend Development Course**
+- **Institution**: FCIS, Mansoura University  
+- **Years**: 2023 – 2024  
+- Completed a comprehensive program focused on **HTML**, **CSS**, and **JS**.  
+- Gained practical experience in building dynamic and responsive web applications.
+
+
 ## **Projects**
 - **Guess My Number Game**: [Live Demo](#) | [GitHub Repo](#)
 - **Pig Game**: [Live Demo](#) | [GitHub Repo](#)
