@@ -76,12 +76,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=ahmedragaab7&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 ## Most Used Languages
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div align="center">
   <!-- GitHub Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedragaab7&show_icons=true&locale=en&layout=compact&theme=default" alt="ahmedragaab" />
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedragaab7&theme=default" alt="ahmedragaab" />
 </div>
 
 ## ✍️ Today's Quote
